@@ -39,15 +39,29 @@ Este projeto está sendo desenvolvido como parte do **Trabalho Interdisciplinar 
 - **Conceitos Aplicados:** Teoria dos Grafos e Inteligência Artificial
 - **Controle de Versão:** Git / GitHub
 
+## 🚀 Instruções de Utilização
 
-### Executando o ambiente de desenvolvimento localmente
+> ⚠️ **Aviso de Desenvolvimento:** Assim que a primeira versão do sistema estiver disponível, esta seção será complementada com as instruções completas de utilização. Descreveremos como instalar eventuais dependências e como executar a aplicação final.
 
-Caso queira testar a build atual do projeto na engine:
+## 💻 Como Executar Localmente
 
-**Pré-requisitos:**
-- É necessário ter instalado o [Unity Hub](https://unity3d.com/get-unity/download) e uma versão recente da Unity instalada.
+- **Pré-requisitos**
 
-**Passo a passo:**
-1. Realize o clone deste repositório para sua máquina local usando:
-   ```bash
-   git clone [https://github.com/SEU-USUARIO/Bit-by-Bit.git](https://github.com/SEU-USUARIO/Bit-by-Bit.git)
+    É necessário ter instalado o [Unity Hub](https://unity3d.com/get-unity/download) e uma versão recente da Unity instalada.
+
+- **Rodando o jogo**
+
+    Realize o clone deste repositório para sua máquina local usando:
+
+    ```bash
+    git clone [https://github.com/SEU-USUARIO/Bit-by-Bit.git](https://github.com/SEU-USUARIO/Bit-by-Bit.git)
+    ```
+
+    1. Abra o Unity Hub, vá até a aba "Projects", e clique em Open.
+    2. Navegue até a pasta `Codigo/BitaBit` onde clonou o projeto e a selecione.
+    3. Após o Unity carregar as dependências e abrir a interface (pode levar alguns minutos na primeira vez), navegue até a janela Project.
+    4. Em `Assets/Cenas`, abra a cena de Mapa (ou Inicializadora) e pressione o botão Play (▶) acima da Game View para iniciar o fluxo.
+
+<div align="center">
+  <sub>Desenvolvido pela equipe Bit a Bit para o Trabalho Interdisciplinar 4 (TI4). Aberto para fins educacionais.</sub>
+</div>
